@@ -37,6 +37,7 @@ public class CoffeeStore {
                     System.out.println("3.제품삭제");
                     System.out.println("내용추가");
                     System.out.println("집에서 작업함..");
+                    System.out.println("연습 과정");
                     break;
                 case "4":
                     System.out.println("4.입금");
